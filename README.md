@@ -30,11 +30,11 @@ cd PWA-project
 
 ### Light House Report
 
-![Lighthouse report](./icons/pwa-score.png)
+![Lighthouse report](https://th.bing.com/th/id/OIP.m1gFcw2pCDAGYrpnkF_ZawHaG0?w=882&h=812&rs=1&pid=ImgDetMain)
 
 ### Used Cache,Update,Refresh strategy 
 
-![Cache strategy](./icons/cache-stratergy.png)
+![Cache strategy](https://github.com/Shakeel1116/PROGRESSIVE-WEB-APPLICATION-PWA-/blob/main/icons/cache-stratergy.png?raw=true)
 
 ### Useful Resources
 
