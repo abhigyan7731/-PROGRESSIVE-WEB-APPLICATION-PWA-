@@ -1,6 +1,6 @@
 # -PROGRESSIVE-WEB-APPLICATION-PWA-
 
-<img src="./icons/logo-192.png" width="100px" height="100px"/>
+<img src="https://pwa-workshop.js.org/assets/img/logo-192.75a78546.png" width="100px" height="100px"/>
 
 <h1>Progressive Web App (PWA)</h1>
 
